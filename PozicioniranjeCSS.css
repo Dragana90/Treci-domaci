@@ -1,0 +1,25 @@
+
+div 
+  {border: 1px solid #242424;
+   width: 165px;
+   margin: 61px;
+   float: left;
+   }
+.circle 
+  {height: 100PX ;
+   width: 100px ;
+   background-color: black;
+   border-radius: 58px;
+   position: relative;
+   left: -28px;
+   top: -110px;
+  }
+p 
+  {position: relative;
+   left: 63px;
+   top: -110px;
+  }
+
+
+
+
